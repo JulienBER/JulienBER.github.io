@@ -1,0 +1,21 @@
+body {
+	background: #49708A;
+	text-align: center;
+font-family: 'Poppins', sans-serif;
+}
+h1 {
+	color: #D0E0EB;
+	font-weight: lighter;
+}
+img {
+	margin-top: 50px;
+}
+.network {
+	color: white;
+	font-size: 30px;
+	margin-right: 0.5%;
+}
+.mail {
+	text-decoration: none;
+	color: white;
+}
